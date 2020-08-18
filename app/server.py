@@ -9,7 +9,7 @@ from starlette.middleware.cors import CORSMiddleware
 from starlette.responses import HTMLResponse, JSONResponse
 from starlette.staticfiles import StaticFiles
 
-export_file_url = 'https://drive.google.com/uc?export=download&id=1e3oTF8TaudAMkSVJ356nmvxcJxBhbjrA'
+export_file_url = 'https://drive.google.com/uc?export=download&id=1bEnzqvaSp19mA3-_Q6vGKH8jiQlc8t50'
 export_file_name = 'export.pkl'
 
 classes = ['classical', 'gothic', 'modern', 'victorian']
